@@ -1,0 +1,4 @@
+{
+  "mongoUri": "mongodb+srv://Admin:Jordanball5@cluster0.mtrlw.mongodb.net/devcard?retryWrites=true&w=majority",
+  "jwtSecret": "devcardsecret"
+}
